@@ -11,9 +11,10 @@ Repository of the study *"From Feedback to Fluency: How L2 Growth Mindset Shapes
 ## 🖼️ Graphical Abstract & Key Figures
 
 <p align="center">
-  <img src="Figures/Graphical Abstract.png" alt="Graphical Abstract" width="700"/>
+  <img src="Figures/graphical abstarct.png" alt="Graphical Abstract" width="700"/>
   <br><em>Graphical abstract: L2 growth mindset → feedback uptake → speaking development.</em>
 </p>
+
 
 ### Analysis Figures
 

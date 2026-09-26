@@ -1,6 +1,8 @@
 # From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development
 
 [![N = 120](https://img.shields.io/badge/N-120-blue)]() [![Design](https://img.shields.io/badge/Design-Longitudinal%20(T1%2FT2%2FT3)-green)]() [![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22967498.svg)](https://doi.org/10.5281/zenodo.22967498)
+
 
 Repository of the study *"From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development"* — a longitudinal quantitative study of **120 English learners** linking L2 growth mindset, oral corrective feedback (OCF) uptake, and speaking performance across three measurement occasions.
 

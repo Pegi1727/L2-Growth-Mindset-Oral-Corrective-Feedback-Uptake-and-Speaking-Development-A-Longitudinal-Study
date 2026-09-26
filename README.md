@@ -79,3 +79,21 @@ Speaking performance changed significantly across the three occasions, with a la
 ```bash
 pip install pandas numpy scipy statsmodels matplotlib seaborn
 python github_scripts/python/01_descriptive_and_correlations.py
+---
+
+## 📄 License & Citation
+
+If you use these data or scripts, please cite:
+> **Merrikhi, P.** (2025). *From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development* [Data set & Code]. Zenodo. https://doi.org/10.5281/zenodo.22967498
+
+#### BibTeX:
+```bibtex
+@dataset{merrikhi_2025_zenodo,
+  author       = {Merrikhi, Pegah},
+  title        = {From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development},
+  month        = {oct},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22967498},
+  url          = {https://doi.org/10.5281/zenodo.22967498}
+}

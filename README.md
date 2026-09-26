@@ -81,10 +81,11 @@ pip install pandas numpy scipy statsmodels matplotlib seaborn
 python github_scripts/python/01_descriptive_and_correlations.py
 ---
 
-## 📄 License & Citation
+###  📄 License & Citation
 
 If you use these data or scripts, please cite:
 > **Merrikhi, P.** (2025). *From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development* [Data set & Code]. Zenodo. https://doi.org/10.5281/zenodo.22967498
+---
 
 #### BibTeX:
 ```bibtex

@@ -1,8 +1,6 @@
 # From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development
 
-[![N = 120](https://img.shields.io/badge/N-120-blue)]() [![Design](https://img.shields.io/badge/Design-Longitudinal%20(T1%2FT2%2FT3)-green)]() [![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22967498.svg)](https://doi.org/10.5281/zenodo.22967498)
-
+[![N = 120](https://img.shields.io/badge/N-120-blue)]() [![Design](https://img.shields.io/badge/Design-Longitudinal%20(T1%2FT2%2FT3)-green)]() [![License](https://img.shields.io/badge/License-MIT-lightgrey)]() [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22967498.svg)](https://doi.org/10.5281/zenodo.22967498)
 
 Repository of the study *"From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development"* — a longitudinal quantitative study of **120 English learners** linking L2 growth mindset, oral corrective feedback (OCF) uptake, and speaking performance across three measurement occasions.
 
@@ -16,7 +14,6 @@ Repository of the study *"From Feedback to Fluency: How L2 Growth Mindset Shapes
   <img src="Figures/graphical abstarct.png" alt="Graphical Abstract" width="700"/>
   <br><em>Graphical abstract: L2 growth mindset → feedback uptake → speaking development.</em>
 </p>
-
 
 ### Analysis Figures
 
@@ -64,18 +61,6 @@ Speaking performance changed significantly across the three occasions, with a la
 
 ---
 
-#### BibTeX:
-```bibtex
-@dataset{merrikhi_2025_zenodo,
-  author       = {Merrikhi, Pegah},
-  title        = {From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development},
-  month        = {oct},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22967498},
-  url          = {https://doi.org/10.5281/zenodo.22967498}
-}
----
 ## 📁 Repository Contents
 
 - `github_scripts/` — Python & R analysis scripts (descriptives/correlations, repeated measures, mixed models, regression/VIF, bootstrap mediation, figures)
@@ -86,17 +71,28 @@ Speaking performance changed significantly across the three occasions, with a la
 - `Longitudinal_Data_120_Analysis.xlsx`, `Mindset_English_Subscales_Statistics.xlsx` — Excel outputs
 - `Longitudinal_Analysis_Report_FA.md` — full statistical report (Persian)
 - `main doc.docx` — full manuscript
-
+-----------------
 ### Quick start
 ```bash
 pip install pandas numpy scipy statsmodels matplotlib seaborn
 python github_scripts/python/01_descriptive_and_correlations.py
----
-
-###  📄 License & Citation
-
+📄 License & Citation
 If you use these data or scripts, please cite:
-> **Merrikhi, P.** (2025). *From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development* [Data set & Code]. Zenodo. https://doi.org/10.5281/zenodo.22967498
----
 
-
+Merrikhi, P. (2025). From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development [Data set & Code]. Zenodo. https://doi.org/10.5281/zenodo.22967498
+----------------------
+BibTeX
+bibtex
+@dataset{merrikhi_2025_zenodo,
+  author       = {Merrikhi, Pegah},
+  title        = {From Feedback to Fluency: How L2 Growth Mindset Shapes Corrective Feedback Uptake and Speaking Development},
+  month        = {oct},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22967498},
+  url          = {https://doi.org/10.5281/zenodo.22967498}
+}
+-------------------
+Code: MIT License
+Data: CC-BY 4.0
+`
